@@ -42,6 +42,15 @@ Tenho me dedicado ao aprimoramento como desenvolvedor Full Stack, utilizando Jav
 ![Styled with CSS](https://img.shields.io/badge/Styled%20with-CSS-blue)
 ![Interactive JavaScript](https://img.shields.io/badge/Interactive-JavaScript-yellow)
 
+---
+
+## 🧰 Ferramentas de Desenvolvimento
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Eclipse" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
+  <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
+
 <!--
 **Pedro185-Gomes/Pedro185-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
