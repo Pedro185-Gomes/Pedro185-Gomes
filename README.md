@@ -8,7 +8,6 @@ Tenho me dedicado ao aprimoramento como desenvolvedor Full Stack, utilizando Jav
 ## 💻 skils
 
 ### ⚙️🧠 Backend
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Spring Boot" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -29,7 +28,6 @@ Tenho me dedicado ao aprimoramento como desenvolvedor Full Stack, utilizando Jav
 ---
 
 ### 🎨 Frontend
-
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -45,7 +43,6 @@ Tenho me dedicado ao aprimoramento como desenvolvedor Full Stack, utilizando Jav
 ---
 
 ## 🧰 Ferramentas de Desenvolvimento
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Eclipse" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
   <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
