@@ -51,6 +51,12 @@ Tenho me dedicado ao aprimoramento como desenvolvedor Full Stack, utilizando Jav
   <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
+<br>
+
+![Eclipse](https://img.shields.io/badge/Eclipse-IDE-2C2255?logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?logo=visualstudiocode&logoColor=white)
+
+
 <!--
 **Pedro185-Gomes/Pedro185-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
