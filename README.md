@@ -58,11 +58,11 @@ Tenho me dedicado ao aprimoramento como desenvolvedor Full Stack, utilizando Jav
 <div align="center">
 
   <a href="https://github.com/Pedro185-Gomes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroarthur&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pPedro185-Gomes&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false"/>
   </a>
   
   <a href="https://github.com/Pedro185-Gomes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroarthur&layout=compact&theme=tokyonight&border_radius=10&hide_border=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro185-Gomes&layout=compact&theme=tokyonight&border_radius=10&hide_border=false"/>
   </a>
 
 </div>
