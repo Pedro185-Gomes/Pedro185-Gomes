@@ -15,6 +15,7 @@ Tenho me dedicado ao aprimoramento como desenvolvedor Full Stack, utilizando Jav
   <img align="center" alt="Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="JavaScript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="NodeJS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  
 </div>
 
 <br>
@@ -25,14 +26,21 @@ Tenho me dedicado ao aprimoramento como desenvolvedor Full Stack, utilizando Jav
 ![Frontend JavaScript](https://img.shields.io/badge/Frontend-JavaScript-yellow)
 ![Backend Node.js](https://img.shields.io/badge/Backend-Node.js-green)
 
+---
+
 ### 🎨 Frontend
 
-div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="JavaScript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
+<br>
+
+![Made with HTML](https://img.shields.io/badge/Made%20with-HTML-orange)
+![Styled with CSS](https://img.shields.io/badge/Styled%20with-CSS-blue)
+![Interactive JavaScript](https://img.shields.io/badge/Interactive-JavaScript-yellow)
 
 <!--
 **Pedro185-Gomes/Pedro185-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
