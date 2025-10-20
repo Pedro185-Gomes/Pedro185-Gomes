@@ -53,6 +53,14 @@ Tenho me dedicado ao aprimoramento como desenvolvedor Full Stack, utilizando Jav
 ![Eclipse](https://img.shields.io/badge/Eclipse-IDE-2C2255?logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?logo=visualstudiocode&logoColor=white)
 
+## Pedro Arthur's GitHub Stats
+
+![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroarthur&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroarthur&layout=compact&theme=tokyonight&border_radius=10&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pedroarthur&theme=tokyonight&border_radius=10)
+
 
 <!--
 **Pedro185-Gomes/Pedro185-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
