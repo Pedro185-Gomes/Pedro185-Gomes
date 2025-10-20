@@ -57,7 +57,8 @@ Tenho me dedicado ao aprimoramento como desenvolvedor Full Stack, utilizando Jav
 
 ![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroarthur&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false)
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroarthur&layout=compact&theme=tokyonight&border_radius=10&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro185-Gomes&layout=compact&theme=tokyonight&border_radius=10&hide_border=false)
+
 
 <!--
 **Pedro185-Gomes/Pedro185-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
