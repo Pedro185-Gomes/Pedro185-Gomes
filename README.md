@@ -53,6 +53,8 @@ Tenho me dedicado ao aprimoramento como desenvolvedor Full Stack, utilizando Jav
 ![Eclipse](https://img.shields.io/badge/Eclipse-IDE-2C2255?logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?logo=visualstudiocode&logoColor=white)
 
+---
+
 ## Pedro Arthur's GitHub Stats
 
 <div align="center">
